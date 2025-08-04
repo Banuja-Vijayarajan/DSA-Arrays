@@ -18,3 +18,5 @@ System.out.println("Enter 4 numbers to find the largest: ");
 			}
 		}
 		System.out.println("Largest number: "+max);
+  }
+}
